@@ -1,5 +1,3 @@
-package matrixpseudoinverse;
-
 import java.util.Random;
 
 public class Matrix {
